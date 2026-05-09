@@ -15,9 +15,9 @@ This repository contains projects related to:
 
 ## Current Projects
 
-- Power BI dashboard snapshots
-- AI agent development
-- Data analysis projects
+- 📊 [Power BI Dashboard Project](powerbi-projects/dashboard-1)
+- 🤖 AI agent development
+- 📈 Data analysis projects
 
 ---
 
