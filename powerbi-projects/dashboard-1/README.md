@@ -13,7 +13,11 @@ This project demonstrates data analysis and visualization using Power BI, includ
 ![Power Query Steps](images/powerquery_steps.jpg)
 
 ## Interactivity
+
 ![Filters](images/dashboard_filters.jpg)
+
+The dashboard includes interactive slicers that allow users to filter the data by year.  
+In this example, the slicer is set to **2023**, demonstrating dynamic filtering of the visualizations.
 
 ## Key Skills Demonstrated
 
