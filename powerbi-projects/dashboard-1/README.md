@@ -11,7 +11,7 @@ This project demonstrates data analysis and visualization using Power BI, includ
 
 ## Data Cleaning (Power Query)
 The dataset was cleaned and transformed using Power Query to prepare it for analysis. <br>
-Key transformations included:
+Key transformations included: <br>
 - Changed data types for consistency and accuracy
 - Converted text values to uppercase for standardization
 - Filtered rows to remove irrelevant or incomplete records
