@@ -7,6 +7,9 @@ This project demonstrates data analysis and visualization using Power BI, includ
 ![Dashboard Overview](images/dashboard_overview.jpg)
 
 ## Data Model
+The data model defines the relationships between the tables used in the dashboard.  
+It ensures that data is properly connected to support accurate filtering and aggregation across visuals.
+
 ![Data Model](images/model_relationships.jpg)
 
 ## Data Cleaning (Power Query)
