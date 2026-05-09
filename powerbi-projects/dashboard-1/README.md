@@ -4,11 +4,13 @@
 This project demonstrates data analysis and visualization using Power BI, including data cleaning, modeling, and interactive reporting.
 
 ## Dashboard Preview
+The dashboard provides an interactive overview of key metrics, enabling users to explore trends and insights through dynamic visualizations.
+
 ![Dashboard Overview](images/dashboard_overview.jpg)
 
 ## Data Model
-The data model defines the relationships between the tables used in the dashboard.  
-It ensures that data is properly connected to support accurate filtering and aggregation across visuals.
+The data model defines the relationships between the tables used in the dashboard. <br>
+A custom Calendar table was created using DAX to enable time-based analysis and improve reporting flexibility.
 
 ![Data Model](images/model_relationships.jpg)
 
