@@ -10,7 +10,7 @@ This project demonstrates data analysis and visualization using Power BI, includ
 ![Data Model](images/model_relationships.jpg)
 
 ## Data Cleaning (Power Query)
-The dataset was cleaned and transformed using Power Query to prepare it for analysis.
+The dataset was cleaned and transformed using Power Query to prepare it for analysis. <br>
 Key transformations included:
 - Changed data types for consistency and accuracy
 - Converted text values to uppercase for standardization
