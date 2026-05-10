@@ -1,1 +1,5 @@
-ai_resume_agent
+ai_resume_agent/
+│
+├── app.py
+├── requirements.txt
+└── README.md
