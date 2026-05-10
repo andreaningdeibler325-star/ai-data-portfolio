@@ -10,7 +10,7 @@ This repository documents my learning journey and projects as I transition into 
 * Focus: data cleaning, visualization, and storytelling
 
 🤖 **AI Resume Agent**
-🤖 **AI Resume Agent** → [View Project](./ai_resume_agent)
+[View Project](./ai_resume_agent)
 * AI-powered tool that analyzes resumes and job descriptions
 * Provides skill matching, keyword extraction, and improvement suggestions
 * Built with Python and AI APIs
