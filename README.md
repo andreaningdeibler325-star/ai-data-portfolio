@@ -5,12 +5,12 @@ This repository documents my learning journey and projects as I transition into 
 
 ## Current Projects
 📊 **Power BI Dashboard Project**
-- 📊 [Power BI Dashboard Project](powerbi-projects/dashboard-1)
+📊 [Power BI Dashboard Project](powerbi-projects/dashboard-1)
 * Interactive dashboards for data analysis and business insights
 * Focus: data cleaning, visualization, and storytelling
 
 🤖 **AI Resume Agent**
-- 📊 Folder
+📊 Folder
 * AI-powered tool that analyzes resumes and job descriptions
 * Provides skill matching, keyword extraction, and improvement suggestions
 * Built with Python and AI APIs
