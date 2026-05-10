@@ -4,19 +4,23 @@ Welcome to my AI and Data Analytics portfolio.
 This repository documents my learning journey and projects as I transition into applied AI, Data Analytics, and Business Intelligence in the San Francisco tech ecosystem.
 
 ## Current Projects
-📊 **Power BI Dashboard Project** <br>
+📊 **Power BI Dashboard Project** 
+
 * Interactive dashboards for data analysis and business insights
-* Focus: data cleaning, visualization, and storytelling <br>
+* Focus: data cleaning, visualization, and storytelling 
+
 * [Click here to view the Power BI Dashboard Project](powerbi-projects/dashboard-1)
-<br>
 
 
-🤖 **AI Resume Agent** <br>
+
+
+🤖 **AI Resume Agent** 
+
 * AI-powered tool that analyzes resumes and job descriptions
 * Provides skill matching, keyword extraction, and improvement suggestions
-* Built with Python and AI APIs <br>
+* Built with Python and AI APIs 
 * [Click here to View the AI Resume Agent Project](./ai_resume_agent)
-<br>
+
 
 
 📈 **Data Analysis Projects**
